@@ -1,0 +1,5 @@
+{
+  "name": "Elite NBA Game Environment Analyst",
+  "description": "A high-precision NBA projection engine using possession math, efficiency adjustments, and shot-profile matchup edges to identify betting value.",
+  "requestFramePermissions": []
+}
